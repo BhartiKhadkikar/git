@@ -1,7 +1,11 @@
 Hello Everyone 
 how r you?
 python
+<<<<<<< HEAD
+machine learning
+=======
 NumPy
 Pandas
 Machine Learning
 seaborn 
+>>>>>>> master
