@@ -1,5 +1,4 @@
 Hello Everyone 
 how r you?
 python
-My domain name is machine learning
 NumPy
